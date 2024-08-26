@@ -36,7 +36,7 @@
 											<ul>
 												<li>
 													<div class="post-author">
-														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="Post Author"> <span>Darren Elder</span></a>
+														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="Post Author"> <span>Elizabeth Hall</span></a>
 													</div>
 												</li>
 												<li><i class="far fa-calendar"></i>4 Dec 2019</li>
@@ -78,7 +78,7 @@
 											</div>
 										</div>
 										<div class="author-details">
-											<a href="councellor-profile" class="blog-author-name">Darren Elder</a>
+											<a href="councellor-profile" class="blog-author-name">Elizabeth Hall</a>
 											<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
 										</div>
 									</div>

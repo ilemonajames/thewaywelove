@@ -32,7 +32,7 @@
 										<img src="assets/img/counsellors/counsellor-thumb-02.jpg" class="img-fluid" alt="User Image">
 									</div>
 									<div class="counc-info-cont">
-										<h4 class="counc-name">Darren Elder</h4>
+										<h4 class="counc-name">Elizabeth Hall</h4>
 										<p class="counc-speciality">Bachelor Degree</p>
 										<p class="counc-department">Counsellor</p>
 										<div class="rating">
@@ -140,7 +140,7 @@
 											<!-- About Details -->
 											<div class="widget about-widget">
 												<h4 class="widget-title">About Me</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+												<p>Elizabeth Hall identifies as (she/her), holds a Bachelor's degree in psychology (Bs), Masters of Arts in Clinical Mental Health Counseling (MA), and is a Certified Transpersonal Hypnotherapist (CTH). She is also certified by the National Board of Certified Counselors (NCC). Elizabeth is trained as a clinical mental health counselor with specialization in Couples and Family Therapy. Her educational background has prepared her to deliver systemic and relational therapeutic services for individuals, couples, and families. Elizabeth has also integrated her training as a transpersonal hypnotherapist with certain clients who have stress-related difficulty that requires additional tools such as guided imagery exercises to achieve deep relaxation. Elizabeth is currently registered with the Virginia Board of Counseling as a Resident in Counseling and Resident in Marriage and Family Therapy. Elizabeth prioritizes mental health and well-being, believing that a person-centered approach is essential in any therapeutic relationship. She works collaboratively with her clients to discover the best method of treatment that meets their specific needs. Elizabeth treats difficulties from a holistic perspective, emphasizing the mind, body, and spirit connection.</p>
 											</div>
 											<!-- /About Details -->
 										
@@ -155,23 +155,23 @@
 															</div>
 															<div class="experience-content">
 																<div class="timeline-content">
-																	<a href="#/" class="name">American University</a>
-																	<div>Bacheloer Degree</div>
-																	<span class="time">1998 - 2003</span>
+																	<!-- <a href="#/" class="name">American University</a> -->
+																	<div>Masters of Arts in Clinical Mental Health Counseling (MA)</div>
+																	<!-- <span class="time">1998 - 2003</span> -->
 																</div>
 															</div>
 														</li>
 														<li>
-															<div class="experience-user">
+															<!-- <div class="experience-user">
 																<div class="before-circle"></div>
-															</div>
-															<div class="experience-content">
+															</div> -->
+															<!-- <div class="experience-content">
 																<div class="timeline-content">
 																	<a href="#/" class="name">American University</a>
 																	<div>Master Degree</div>
 																	<span class="time">2003 - 2005</span>
 																</div>
-															</div>
+															</div> -->
 														</li>
 													</ul>
 												</div>
@@ -180,7 +180,7 @@
 									
 											<!-- Experience Details -->
 											<div class="widget experience-widget">
-												<h4 class="widget-title">Work & Experience</h4>
+												<h4 class="widget-title">Personal Beliefs/Philosophy</h4>
 												<div class="experience-box">
 													<ul class="experience-list">
 														<li>
@@ -189,12 +189,12 @@
 															</div>
 															<div class="experience-content">
 																<div class="timeline-content">
-																	<a href="#/" class="name">Glowing Smiles Family Counselling Clinic</a>
-																	<span class="time">2010 - Present (5 years)</span>
+																	<a href="#/" class="name">Elizabeth is all about empowering individuals, couples, and families to attain mental health through a thorough lifestyle of self-care, focusing on the mind, body, and spirit connection. She believes this holistic approach to life, wellness, and well-being should not be only reactive; it must be preventative. The individual or couple should create a plan that allows them to creatively and consistently engage in mental, emotional, physical, and spiritual activities that nourish them. Adapting the self-care wheel, she believes that when we look at self-care from the six perspectives of Physical, Psychological, Emotional, Spiritual, Personal, and Professional, we can find balance and maintain healthy and satisfactory relationships</a>
+																	<!-- <span class="time">2010 - Present (5 years)</span> -->
 																</div>
 															</div>
 														</li>
-														<li>
+														<!-- <li>
 															<div class="experience-user">
 																<div class="before-circle"></div>
 															</div>
@@ -204,8 +204,8 @@
 																	<span class="time">2007 - 2010 (3 years)</span>
 																</div>
 															</div>
-														</li>
-														<li>
+														</li> -->
+														<!-- <li>
 															<div class="experience-user">
 																<div class="before-circle"></div>
 															</div>
@@ -215,13 +215,13 @@
 																	<span class="time">2005 - 2007 (2 years)</span>
 																</div>
 															</div>
-														</li>
+														</li> -->
 													</ul>
 												</div>
 											</div>
 											<!-- /Experience Details -->
 								
-											<!-- Awards Details -->
+											<!-- Awards Details --
 											<div class="widget awards-widget">
 												<h4 class="widget-title">Awards</h4>
 												<div class="experience-box">
@@ -615,7 +615,7 @@
 								
 									<!-- Write Review -->
 									<div class="write-review">
-										<h4>Write a review for <strong>Darren Elder</strong></h4>
+										<h4>Write a review for <strong>Elizabeth Hall</strong></h4>
 										
 										<!-- Write Review Form -->
 										<form>
@@ -764,7 +764,7 @@
 								<div class="call-inner">
 									<div class="call-user">
 										<img alt="User Image" src="assets/img/counsellors/counsellor-thumb-02.jpg" class="call-avatar">
-										<h4>Darren Elder</h4>
+										<h4>Elizabeth Hall</h4>
 										<span>Connecting...</span>
 									</div>							
 									<div class="call-items">
@@ -794,7 +794,7 @@
 								<div class="call-inner">
 									<div class="call-user">
 										<img class="call-avatar" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
-										<h4>Darren Elder</h4>
+										<h4>Elizabeth Hall</h4>
 										<span>Calling ...</span>
 									</div>							
 									<div class="call-items">

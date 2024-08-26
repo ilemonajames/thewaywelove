@@ -34,7 +34,7 @@
 											<img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 										</a>
 										<div class="profile-det-info">
-											<h3>Darren Elder</h3>
+											<h3>Elizabeth Hall</h3>
 											
 											<div class="patient-details">
 												<h5 class="mb-0">Counsellor</h5>
@@ -174,7 +174,7 @@
 													<img class="avatar rounded-circle" alt="User Image" src="assets/img/counsellors/counsellor-thumb-02.jpg">
 													<div class="comment-body">
 														<div class="meta-data">
-															<span class="comment-author">Darren Elder</span>
+															<span class="comment-author">Elizabeth Hall</span>
 															<span class="comment-date">Reviewed 3 Days ago</span>
 														</div>
 														<p class="comment-content">

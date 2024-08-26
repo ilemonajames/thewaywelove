@@ -34,7 +34,7 @@
 											<img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 										</a>
 										<div class="profile-det-info">
-											<h3>Darren Elder</h3>
+											<h3>Elizabeth Hall</h3>
 											
 											<div class="patient-details">
 												<h5 class="mb-0">Counsellors</h5>

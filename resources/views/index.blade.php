@@ -18,7 +18,7 @@
 			</section>
 			<!-- /Home Banner -->
 
-			<!-- Banner Bottom -->
+			<!-- Banner Bottom --
 			<section class="section banner-bottom">
 				<div class="container">
 					<div class="row">
@@ -26,7 +26,7 @@
 							<div class="card bg-one">
 								<div class="card-widget">
 									<h3>Couples Counseling</h3>
-									<p>We serve all couples, including LGBTQIA+, Pre-marital (dating or engaged), Cohabiting (living together but not married), and Married Couples (husbands and wives).</p>
+									<p>We serve all couples, including LGBTQIA+, Pre-marital, Cohabiting, and Married Couples (husbands and wives).</p>
 									<a href="map-list" class="btn btn-primary">See All</a>
 								</div>								
 							</div>							
@@ -152,9 +152,8 @@
 				<div class="row m-0">
 					<div class="col-sm-5 col-lg-7 p-0 sec-hide we-al-img"></div>
 					<div class="col-sm-12 col-lg-5 we-always-info">
-						<h2>We Always Ready For A Challenge</h2>
-						<p>Our goal is to help our customers be satisfied and solve problems when leaving, we are not seeking profits that we want to share, sympathize, help you solve your worries and troubles. This sleek metallic tower stands out from surrounding buildings, and is set to transform.</p>
-
+						<h2>The Way We Love Relationship Counseling</h2>
+                            <p>The Way We Love Relationship Counseling is born out of a desire to serve and mend relationships. We strive to help individuals, couples, and families attain mental health through a lifestyle of self-care, identifying value systems that make them happy in their relationships</p>
 						<div class="row">
 							<div class="col-sm-6 col-md-3 col-lg-6 we-info">
 								<h4>400+</h4>

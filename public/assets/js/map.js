@@ -10,7 +10,7 @@ var bounds = new google.maps.LatLngBounds();
 var map, current = 0;
 var locations =[{
 	"id":01,
-	"doc_name":"Ruby Perrin",
+	"doc_name":"Elizabeth Hall",
 	"speciality":"Online Counselling",
 	"address":"Florida, USA",
 	"next_available":"Available on Fri, 22 Mar",
@@ -24,7 +24,7 @@ var locations =[{
 	}, {
 		
 	"id":02,
-	"doc_name":"Darren Elder",
+	"doc_name":"Elizabeth Hall",
 	"speciality":"Numerous Counselling",
 	"address":"Newyork, USA",
 	"next_available":"Available on Fri, 23 Mar",

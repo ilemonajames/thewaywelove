@@ -109,15 +109,15 @@
 											</div>
 											<!-- /Credit Card Payment -->
 											
-											<!-- Paypal Payment -->
+											<!-- Stripe Payment -->
 											<div class="payment-list">
 												<label class="payment-radio paypal-option">
 													<input type="radio" name="radio">
 													<span class="checkmark"></span>
-													Paypal
+													Stripe
 												</label>
 											</div>
-											<!-- /Paypal Payment -->
+											<!-- /Stripe Payment -->
 											
 											<!-- Terms Accept -->
 											<div class="terms-accept">
@@ -158,7 +158,7 @@
 											<img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 										</a>
 										<div class="booking-info">
-											<h4><a href="councellor-profile">Darren Elder</a></h4>
+											<h4><a href="councellor-profile">Elizabeth Hall</a></h4>
 											<div class="rating">
 												<i class="fas fa-star filled"></i>
 												<i class="fas fa-star filled"></i>

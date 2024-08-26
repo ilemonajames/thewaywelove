@@ -127,7 +127,7 @@
 												</a>
 											</div>
 											<div class="counc-info-cont">
-												<h4 class="counc-name"><a href="councellor-profile">Ruby Perrin</a></h4>
+												<h4 class="counc-name"><a href="councellor-profile">Elizabeth Hall</a></h4>
 												<p class="counc-speciality">Master Degree</p>
 												<h5 class="counc-department">Counsellor</h5>
 												<div class="rating">
@@ -199,7 +199,7 @@
 												</a>
 											</div>
 											<div class="counc-info-cont">
-												<h4 class="counc-name"><a href="councellor-profile">Darren Elder</a></h4>
+												<h4 class="counc-name"><a href="councellor-profile">Elizabeth Hall</a></h4>
 												<p class="counc-speciality">Bachelor Degree</p>
 												<h5 class="counc-department">Counsellor</h5>
 												<div class="rating">

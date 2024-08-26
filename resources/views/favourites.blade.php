@@ -99,7 +99,7 @@
 										</div>
 										<div class="pro-content">
 											<h3 class="title">
-												<a href="councellor-profile">Ruby Perrin</a> 
+												<a href="councellor-profile">Elizabeth Hall</a> 
 												<i class="fas fa-check-circle verified"></i>
 											</h3>
 											<p class="speciality">Masters Degree</p>
@@ -146,7 +146,7 @@
 										</div>
 										<div class="pro-content">
 											<h3 class="title">
-												<a href="councellor-profile">Darren Elder</a> 
+												<a href="councellor-profile">Elizabeth Hall</a> 
 												<i class="fas fa-check-circle verified"></i>
 											</h3>
 											<p class="speciality">Bachelors Degree</p>

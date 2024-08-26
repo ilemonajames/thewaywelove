@@ -160,7 +160,7 @@
                             </div>
                             <div class="form-check">
                               <label class="form-check-label">
-                                <input type="radio" class="form-check-input" name="optradio">Paypal
+                                <input type="radio" class="form-check-input" name="optradio">Stripe
                               </label>
                             </div>
                             <button class="pay-ctn-btn mt-4">CONTINUE</button>

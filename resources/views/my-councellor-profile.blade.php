@@ -99,7 +99,7 @@
 												<img src="assets/img/counsellors/counsellor-thumb-02.jpg" class="img-fluid" alt="User Image">
 											</div>
 											<div class="counc-info-cont">
-												<h4 class="counc-name">Darren Elder</h4>
+												<h4 class="counc-name">Elizabeth Hall</h4>
 												<!-- <p class="counc-speciality">BDS, MDS - Oral & Maxillofacial Surgery</p> -->
 												<p class="counc-department">Counsellor</p>
 												<div class="rating">
@@ -458,7 +458,7 @@
 										
 											<!-- Write Review -->
 											<div class="write-review">
-												<h4>Write a review for <strong>Darren Elder</strong></h4>
+												<h4>Write a review for <strong>Elizabeth Hall</strong></h4>
 												
 												<!-- Write Review Form -->
 												<form>

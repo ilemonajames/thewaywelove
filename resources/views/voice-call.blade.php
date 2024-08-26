@@ -44,7 +44,7 @@
 											<div class="call-content-wrap">
 												<div class="voice-call-avatar">
 													<img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image" class="call-avatar">
-													<span class="username">Darren Elder</span>
+													<span class="username">Elizabeth Hall</span>
 													<span class="call-timing-count">00:59</span>
 												</div>
 												<div class="call-users">

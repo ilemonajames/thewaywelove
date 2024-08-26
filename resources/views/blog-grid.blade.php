@@ -38,7 +38,7 @@
 											<ul class="entry-meta meta-item">
 												<li>
 													<div class="post-author">
-														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="Post Author"> <span>Ruby Perrin</span></a>
+														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="Post Author"> <span>Elizabeth Hall</span></a>
 													</div>
 												</li>
 												<li><i class="far fa-clock"></i> 4 Dec 2019</li>
@@ -61,7 +61,7 @@
 											<ul class="entry-meta meta-item">
 												<li>
 													<div class="post-author">
-														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="Post Author"> <span>Darren Elder</span></a>
+														<a href="councellor-profile"><img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="Post Author"> <span>Elizabeth Hall</span></a>
 													</div>
 												</li>
 												<li><i class="far fa-clock"></i> 3 Dec 2019</li>

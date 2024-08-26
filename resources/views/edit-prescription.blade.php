@@ -65,7 +65,7 @@
 									<div class="row">
 										<div class="col-sm-6">
 											<div class="biller-info">
-												<h4 class="d-block">Darren Elder</h4>
+												<h4 class="d-block">Elizabeth Hall</h4>
 												<span class="d-block text-sm text-muted">Counselor</span>
 												<span class="d-block text-sm text-muted">Newyork, United States</span>
 											</div>
@@ -186,7 +186,7 @@
 													Click here to sign
 												</div>
 												<div class="sign-name">
-													<p class="mb-0">( Darren Elder )</p>
+													<p class="mb-0">( Elizabeth Hall )</p>
 													<span class="text-muted">Signature</span>
 												</div>
 											</div>

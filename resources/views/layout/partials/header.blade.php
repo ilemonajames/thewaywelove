@@ -17,7 +17,7 @@
 					<div class="row">
 						<div class="col">
 							<a href="index" class="navbar-brand logo">
-								<img src="assets/img/logo1.jpg" class="img-fluid" alt="Logo">
+								<img src="assets/img/logo.jpg" class="img-fluid" alt="Logo">
 							</a>
 						</div>
 						<div class="col-2 d-flex align-items-center justify-content-center p-0">
@@ -239,7 +239,7 @@
 						<li class="nav-item dropdown has-arrow logged-item">
 							<a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
 								<span class="user-img">
-									<img class="rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" width="31" alt="Darren Elder">
+									<img class="rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" width="31" alt="Elizabeth Hall">
 								</span>
 							</a>
 							<div class="dropdown-menu dropdown-menu-right">
@@ -248,7 +248,7 @@
 										<img src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image" class="avatar-img rounded-circle">
 									</div>
 									<div class="user-text">
-										<h6>Darren Elder</h6>
+										<h6>Elizabeth Hall</h6>
 										<p class="text-muted mb-0">Counsellor</p>
 									</div>
 								</div>

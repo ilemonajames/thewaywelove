@@ -49,7 +49,7 @@
 											<div class="invoice-info">
 												<strong class="customer-text">Invoice From</strong>
 												<p class="invoice-details invoice-details-two">
-													Darren Elder <br>
+													Elizabeth Hall <br>
 													806 Twin Willow Lane, Old Forge,<br>
 													Newyork, USA <br>
 												</p>

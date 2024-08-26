@@ -10,7 +10,7 @@
 				
 						<div class="row align-items-center mb-4">
 							<div class="col-md-6 col">
-								<h4>2245 Counsellors found</h4>
+								<h4>1 Counsellors found</h4>
 							</div>
 
 							<div class="col-md-6 col-auto">
@@ -45,10 +45,10 @@
 										</div>
 										<div class="pro-content">
 											<h3 class="title">
-												<a href="councellor-profile">Ruby Perrin</a> 
+												<a href="councellor-profile">Elizabeth Hall</a> 
 												<i class="fas fa-check-circle verified"></i>
 											</h3>
-											<p class="speciality">Masters Degree</p>
+											<p class="speciality">Masters of Arts in Clinical Mental Health Counseling</p>
 											<div class="rating">
 												<i class="fas fa-star filled"></i>
 												<i class="fas fa-star filled"></i>
@@ -80,7 +80,7 @@
 									</div>
 								</div>
 								
-								<div class="col-sm-6 col-md-4 col-xl-6">
+								<!--<div class="col-sm-6 col-md-4 col-xl-6">
 									<div class="profile-widget">
 										<div class="counc-img">
 											<a href="councellor-profile">
@@ -92,7 +92,7 @@
 										</div>
 										<div class="pro-content">
 											<h3 class="title">
-												<a href="councellor-profile">Darren Elder</a> 
+												<a href="councellor-profile">Elizabeth Hall</a> 
 												<i class="fas fa-check-circle verified"></i>
 											</h3>
 											<p class="speciality">Bachelors Degree</p>
@@ -127,7 +127,7 @@
 									</div>
 								</div>
 								
-								<div class="col-sm-6 col-md-4 col-xl-6">
+								 <div class="col-sm-6 col-md-4 col-xl-6">
 									<div class="profile-widget">
 										<div class="counc-img">
 											<a href="councellor-profile">
@@ -604,7 +604,7 @@
 										</div>
 									</div>
 								</div>
-								
+								 -->
 								
 							</div>
 							

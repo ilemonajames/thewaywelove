@@ -147,7 +147,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin </a>
+																			<a href="councellor-profile">Elizabeth Hall </a>
 																		</h2>
 																	</td>
 																	<td>12 Mar 2020
@@ -176,7 +176,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin </a>
+																			<a href="councellor-profile">Elizabeth Hall </a>
 																		</h2>
 																	</td>
 																	<td>12 Mar 2020
@@ -244,7 +244,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin </a>
+																			<a href="councellor-profile">Elizabeth Hall </a>
 																		</h2>
                                   									</td>
                                   									<td>
@@ -292,7 +292,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin </a>
+																			<a href="councellor-profile">Elizabeth Hall </a>
 																		</h2>
                                   									</td>
                                   									<td>

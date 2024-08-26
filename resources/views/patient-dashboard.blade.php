@@ -140,7 +140,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>14 Nov 2019 <span class="d-block text-info">10.00 AM</span></td>
@@ -165,7 +165,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>12 Nov 2019 <span class="d-block text-info">8.00 PM</span></td>
@@ -415,7 +415,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -437,7 +437,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -662,7 +662,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -686,7 +686,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -925,7 +925,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>$450</td>
@@ -950,7 +950,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>$300</td>

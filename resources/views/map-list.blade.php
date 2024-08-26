@@ -10,7 +10,7 @@
 				
 						<div class="row align-items-center mb-4">
 							<div class="col-md-6 col">
-								<h4>2245 Counsellors found</h4>
+								<h4>1 Counsellors found</h4>
 							</div>
 
 							<div class="col-md-6 col-auto">
@@ -43,7 +43,7 @@
 											</a>
 										</div>
 										<div class="counc-info-cont">
-											<h4 class="counc-name"><a href="councellor-profile">Ruby Perrin</a></h4>
+											<h4 class="counc-name"><a href="councellor-profile">Elizabeth Hall</a></h4>
 											<p class="counc-speciality">Masters Degree</p>
 											<h5 class="counc-department">Counsellor</h5>
 											<div class="rating">
@@ -104,7 +104,7 @@
 						</div>
 						<!-- /Counsellor Widget -->
 
-						<!-- Counsellor Widget -->
+						<!-- Counsellor Widget --
 						<div class="card">
 							<div class="card-body">
 								<div class="counsellor-widget">
@@ -115,7 +115,7 @@
 											</a>
 										</div>
 										<div class="counc-info-cont">
-											<h4 class="counc-name"><a href="councellor-profile">Darren Elder</a></h4>
+											<h4 class="counc-name"><a href="councellor-profile">Elizabeth Hall</a></h4>
 											<p class="counc-speciality">Bachelors Degree</p>
 											<h5 class="counc-department">Counsellor</h5>
 											<div class="rating">
@@ -176,7 +176,7 @@
 						</div>
 						<!-- /Counsellor Widget -->
 
-						<!-- Counsellor Widget -->
+						<!-- Counsellor Widget --
 						<div class="card">
 							<div class="card-body">
 								<div class="counsellor-widget">
@@ -248,7 +248,7 @@
 						</div>
 						<!-- /Counsellor Widget -->
 
-						<!-- Counsellor Widget -->
+						<!-- Counsellor Widget --
 						<div class="card">
 							<div class="card-body">
 								<div class="counsellor-widget">
@@ -320,7 +320,7 @@
 						</div>
 						<!-- /Counsellor Widget -->
 
-						<!-- Counsellor Widget -->
+						<!-- Counsellor Widget --
 						<div class="card">
 							<div class="card-body">
 								<div class="counsellor-widget">

@@ -67,7 +67,7 @@
 												<img alt="Image placeholder" src="assets/img/counsellors/counsellor-thumb-02.jpg" class="avatar  rounded-circle">
 											</div>
 											<div class="media-body">
-												<h5 class="d-block mb-0">Darren Elder </h5>
+												<h5 class="d-block mb-0">Elizabeth Hall </h5>
 												<span class="d-block text-sm text-muted">Counsellor</span>
 												<span class="d-block text-sm text-muted">14 Nov 2019 5.00 PM</span>
 											</div>
@@ -79,7 +79,7 @@
 												<img alt="Image placeholder" src="assets/img/counsellors/counsellor-thumb-02.jpg" class="avatar  rounded-circle">
 											</div>
 											<div class="media-body">
-												<h5 class="d-block mb-0">Darren Elder </h5>
+												<h5 class="d-block mb-0">Elizabeth Hall </h5>
 												<span class="d-block text-sm text-muted">Counsellor</span>
 												<span class="d-block text-sm text-muted">12 Nov 2019 11.00 AM</span>
 											</div>
@@ -136,7 +136,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>14 Nov 2019 <span class="d-block text-info">10.00 AM</span></td>
@@ -158,7 +158,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>12 Nov 2019 <span class="d-block text-info">8.00 PM</span></td>
@@ -180,7 +180,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>11 Nov 2019 <span class="d-block text-info">11.00 AM</span></td>
@@ -202,7 +202,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>10 Nov 2019 <span class="d-block text-info">3.00 PM</span></td>
@@ -227,7 +227,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>9 Nov 2019 <span class="d-block text-info">7.00 PM</span></td>
@@ -249,7 +249,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>8 Nov 2019 <span class="d-block text-info">9.00 AM</span></td>
@@ -271,7 +271,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>8 Nov 2019 <span class="d-block text-info">6.00 PM</span></td>
@@ -293,7 +293,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>7 Nov 2019 <span class="d-block text-info">9.00 PM</span></td>
@@ -315,7 +315,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>6 Nov 2019 <span class="d-block text-info">8.00 PM</span></td>
@@ -337,7 +337,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>5 Nov 2019 <span class="d-block text-info">5.00 PM</span></td>
@@ -387,7 +387,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -409,7 +409,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -643,7 +643,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -667,7 +667,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td class="text-right">
@@ -910,7 +910,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-01.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Ruby Perrin <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>$450</td>
@@ -935,7 +935,7 @@
 																			<a href="councellor-profile" class="avatar avatar-sm mr-2">
 																				<img class="avatar-img rounded-circle" src="assets/img/counsellors/counsellor-thumb-02.jpg" alt="User Image">
 																			</a>
-																			<a href="councellor-profile">Darren Elder <span>Counsellor</span></a>
+																			<a href="councellor-profile">Elizabeth Hall <span>Counsellor</span></a>
 																		</h2>
 																	</td>
 																	<td>$300</td>

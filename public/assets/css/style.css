@@ -91,15 +91,19 @@ html {
     height: 100%;
 }
 body {
-	background-color: #fcf8f3;
+	/* background-color: #fcf8f3;
 	color: #272b41;
-    font-family: "Poppins",sans-serif;
+    font-family: "Poppins",sans-serif; */
+	background-color: #f5f5f5; /* Light grey background */
+    color: #004d40; /* Dark green text */
+    font-family: 'Open Sans', sans-serif;
 	font-size: 0.9375rem;
     height: 100%;
 	overflow-x: hidden;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: #272b41;
+	/* color: #272b41; */
+	color: #d4af37; /* Gold headings */
 	font-weight: 500;
 }
 .h1, h1 {
@@ -122,10 +126,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #2E3842;
+    /* color: #2E3842; */
+	color: #00796b; /* Medium green links */
+    text-decoration: none;
 }
 a:hover {
-	color: #E2AC7F;
+	/* color: #E2AC7F; */
+	color: #d4af37; /* Gold on hover */
 }
 a:hover,
 a:active,
@@ -2405,12 +2412,16 @@ html.menu-opened body {
     margin-top: 15px;
 }
 .banner-wrapper {
-    margin: 0 auto;
+    /* margin: 0 auto; */
     max-width: 800px;
     width: 100%;
 }
 .banner-wrapper .banner-header {
-	margin-bottom: 30px;
+	margin-right: -590px;
+	margin-top: 400px;
+	background-color: #cccede;
+	opacity: .9;
+
 }
 .banner-wrapper .banner-header h6 {
 	color: #fff;
@@ -2450,11 +2461,21 @@ html.menu-opened body {
 .banner-bottom {
 	position: relative;
 	margin-top: -130px;
+	
 }
 .banner-bottom .card {
 	border-radius: 0;
 	border: none;
 	padding: 20px;
+}
+
+.banner-bottom img {
+	filter: blur(5px);
+    transition: filter 0.3s ease;
+}
+
+.banner-bottom img:hover{
+	filter: blur(0px);
 }
 .card-widget {
 	padding: 20px;
@@ -2492,22 +2513,31 @@ html.menu-opened body {
 	min-width: 150px;
 }
 .bg-one {
-	background-image: url('../img/banner-bottom-01.png');
+	background-image: url('../img/banner-bottom-02.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	opacity: 0.5; /* 50% transparent */
+    transition: opacity 0.3s ease; /* Smooth transition */
+}
+.big-one a:hover{
+	opacity: 1;
 }
 .bg-two {
 	background-image: url('../img/banner-bottom-02.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	opacity: 0.5; /* 50% transparent */
+    transition: opacity 0.3s ease; /* Smooth transition */
 }
 .bg-three {
 	background-image: url('../img/banner-bottom-03.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	opacity: 0.5; /* 50% transparent */
+    transition: opacity 0.3s ease; /* Smooth transition */
 }
 .section-services {
 	background-color: #fcf8f3;

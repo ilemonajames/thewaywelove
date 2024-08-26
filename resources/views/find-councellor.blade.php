@@ -158,7 +158,7 @@
 													<img src="assets/img/counsellors/counsellor-thumb-02.jpg" class="img-fluid" alt="User Image">
 												</div>
 												<div class="counc-info-cont">
-													<h4 class="counc-name">Darren Elder</h4>
+													<h4 class="counc-name">Elizabeth Hall</h4>
 													<p class="counc-speciality">Bachelors Degree</p>
 													<p class="counc-department">Counsellor</p>
 													<div class="rating">
@@ -197,7 +197,7 @@
 													<img src="assets/img/counsellors/counsellor-thumb-02.jpg" class="img-fluid" alt="User Image">
 												</div>
 												<div class="counc-info-cont">
-													<h4 class="counc-name">Darren Elder</h4>
+													<h4 class="counc-name">Elizabeth Hall</h4>
 													<p class="counc-speciality">Bachelors Degree</p>
 													<p class="counc-department">Counsellor</p>
 													<div class="rating">
